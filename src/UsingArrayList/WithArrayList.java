@@ -1,5 +1,5 @@
 package UsingArrayList;
-
+//Additional info added and updated
 import java.util.*;
 
 public class WithArrayList {
